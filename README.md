@@ -34,7 +34,9 @@ Ce projet s’est révélé très enrichissant dans la mesure où il a consisté
 De plus, il nous a permis d’appliquer et enrichir nos connaissances dans le langage Matlab.
 Les principaux problèmes, que nous avons rencontrés, concernaient l'implémentation des méthodes de résolution des systèmes linéaires, plus particulièrement la résolution graphique et les cas exceptionnels des méthodes de résolution.<br />
 Enfin nous ne prétendons pas avoir résoudre le problème dans son intégralité mais nous sommes par ailleurs convaincus que le travail élaboré n'est qu'une étape primaire pour des études plus approfondies.
-
+<h3 align="center">Rapport </h3>
+Pour plus de details vous pouvez télecharger le rapport du projet par le lien ci-dessous:
+[Télecharger le rapport](url here)
    
 
 
