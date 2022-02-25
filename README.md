@@ -8,8 +8,7 @@ Les systèmes linéaires forment la base calculatoire de l'algèbre linéaire. I
 Le but de notre projet est de réaliser une application, en utilisant le language Matlab, capable de résoudre les systèmes linéaires Ax = b.
   
   ### Description du projet
-  Le but de ce projet est de réaliser une application, en utilisant Matlab GUI, capable de résoudre des systèmes linéaires.
-Matlab GUI (Graphical User Interface)  est un outil dédié à la création des interfaces graphiques qui permet au programmeur de créer des interfaces GUI pour mettre à profit les performances du langage Matlab aux utilisateurs qui ne sont pas familiarisés avec ce langage.
+Matlab GUI (Graphical User Interface) est un outil dédié à la création des interfaces graphiques qui permet au programmeur de créer des interfaces GUI pour mettre à profit les performances du langage Matlab aux utilisateurs qui ne sont pas familiarisés avec ce langage.
 •	Les objectifs de ce projet sont : 
 −	La résolution numérique de Ax = b avec différentes méthodes ; directes et  itératives.
 −	La résolution graphiques de Ax = b
