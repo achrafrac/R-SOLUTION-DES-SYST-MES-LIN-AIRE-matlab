@@ -30,9 +30,9 @@ message indiquant que la solution graphique n'est pas disponible.
 Et enfin le boutton Clear qui efface tout le texte de l'interface, résultant en un écran clair, puis il supprime toutes les variables
 de l'espace de travail actuel et les libérant de la mémoire système.
 ### Conclusion :
-Ce projet s’est révélé très enrichissant dans la mesure où il a consisté en une approche concrète du métier d’ingénieur. En effet, la prise d’initiative, le respect des délais et le travail en équipe seront des aspects essentiels de notre futur métier.
+Ce projet s’est révélé très enrichissant dans la mesure où il a consisté en une approche concrète du métier d’ingénieur. En effet, la prise d’initiative, le respect des délais et le travail en équipe seront des aspects essentiels de notre futur métier.<br />
 De plus, il nous a permis d’appliquer et enrichir nos connaissances dans le langage Matlab.
-Les principaux problèmes, que nous avons rencontrés, concernaient l'implémentation des méthodes de résolution des systèmes linéaires, plus particulièrement la résolution graphique et les cas exceptionnels des méthodes de résolution.
+Les principaux problèmes, que nous avons rencontrés, concernaient l'implémentation des méthodes de résolution des systèmes linéaires, plus particulièrement la résolution graphique et les cas exceptionnels des méthodes de résolution.<br />
 Enfin nous ne prétendons pas avoir résoudre le problème dans son intégralité mais nous sommes par ailleurs convaincus que le travail élaboré n'est qu'une étape primaire pour des études plus approfondies.
 
    
