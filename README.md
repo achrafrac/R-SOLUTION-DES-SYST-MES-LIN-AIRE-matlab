@@ -1,5 +1,5 @@
- # Interface graphique Matlab
- ## RÉSOLUTION DES SYSTÈMES LINÉAIRES AX=B
-***             
+ #                    Interface graphique Matlab
+ ##            *RÉSOLUTION DES SYSTÈMES LINÉAIRES AX=B*
+            
 
 
