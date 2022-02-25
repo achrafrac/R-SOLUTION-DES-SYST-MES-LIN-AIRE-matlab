@@ -10,17 +10,17 @@ Le but de notre projet est de réaliser une application, en utilisant le languag
   ### Description du projet
   
   Matlab GUI (Graphical User Interface) est un outil dédié à la création des interfaces graphiques qui permet au programmeur de créer des interfaces GUI pour mettre à profit les performances du langage Matlab aux utilisateurs qui ne sont pas familiarisés avec ce langage.<br />
-•	Les objectifs de ce projet sont : 
-−	La résolution numérique de Ax = b avec différentes méthodes ; directes et  itératives.
-−	La résolution graphiques de Ax = b
-•	Les limites de ce projet :
-−	On se limite dans ce projet à la résolution graphiques de Ax =b en 2D .
+•	Les objectifs de ce projet sont : <br />
+−	La résolution numérique de Ax = b avec différentes méthodes ; directes et  itératives.<br />
+−	La résolution graphiques de Ax = b<br />
+•	Les limites de ce projet :<br />
+−	On se limite dans ce projet à la résolution graphiques de Ax =b en 2D .<br />
 
-Présentant tout d'abord l'interface de l'application.
+Présentant tout d'abord l'interface de l'application:<br />
 Il est constitué de deux champs, le premier pour l'insertion de la matrice A et le deuxième pour le vecteur b. 
 Après, l'utilisateur va choisir l'une de ces méthodes. soit directe ou itérative. D'ailleurs il ne peut pas choisir plus qu'une méthode.
 
-Ensuite, on a trois boutton :
+Ensuite, on a trois boutton :<br />
 Resolve : Récupère la matrice A et le vecteur b, et fournit la solution numérique, et dans le cas des méthodes itératives
 il nous affiche le nombre d'itérations faites jusqu'on arrive à la solution.
 
