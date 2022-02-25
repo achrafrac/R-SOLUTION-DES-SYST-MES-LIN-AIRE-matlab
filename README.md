@@ -35,8 +35,8 @@ De plus, il nous a permis d’appliquer et enrichir nos connaissances dans le la
 Les principaux problèmes, que nous avons rencontrés, concernaient l'implémentation des méthodes de résolution des systèmes linéaires, plus particulièrement la résolution graphique et les cas exceptionnels des méthodes de résolution.<br />
 Enfin nous ne prétendons pas avoir résoudre le problème dans son intégralité mais nous sommes par ailleurs convaincus que le travail élaboré n'est qu'une étape primaire pour des études plus approfondies.
 <h3 align="center">Rapport </h3>
-Pour plus de details vous pouvez télecharger le rapport du projet par le lien ci-dessous:
-[Télecharger le rapport](url here)
+Pour plus de details vous pouvez télecharger le rapport du projet par le lien ci-dessous:<br />
+[Télecharger le rapport](https://github.com/achrafrac/R-SOLUTION-DES-SYST-MES-LIN-AIRE-matlab/blob/main/rapport%20final.pdf)
    
 
 
